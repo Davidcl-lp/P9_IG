@@ -107,7 +107,7 @@ El Sol no refleja luz: **emite** luz.
 Por eso `emission` multiplica el color base.
 
 ---
-
+![Resultado shaders sol](./public/sol.gif)
 
 # **4. Shader de los Anillos de Saturno**
 
@@ -232,7 +232,7 @@ gl_FragColor = vec4(finalColor, alpha * opacityFactor);
 Los anillos son semitransparentes, por lo que el alpha tiene un papel importante.
 
 ---
-
+![Resultado shaderssaturno](./public/saturno.gif)
 
 
 # 4. Bibliografía
